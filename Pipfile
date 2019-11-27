@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pytest = "*"
+pytest-bdd = "*"
+selenium = "*"
+behave = "*"
+openpyxl = "*"
+htmltestrunner = "*"
+html-testrunner = "*"
+pytest-html = "*"
+parameterized = "*"
+
+[requires]
+python_version = "3.8"
